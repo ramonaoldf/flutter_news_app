@@ -1,5 +1,5 @@
-## Flutter News App  ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fthealphamerc) [![GitHub stars](https://img.shields.io/github/stars/Thealphamerc/flutter_news_app?style=social)](https://github.com/login?return_to=%2FTheAlphamerc%flutter_news_app) ![GitHub forks](https://img.shields.io/github/forks/TheAlphamerc/flutter_news_app?style=social) 
-![Dart CI](https://github.com/TheAlphamerc/flutter_news_app/workflows/Dart%20CI/badge.svg) ![GitHub pull requests](https://img.shields.io/github/issues-pr/TheAlphamerc/flutter_news_app) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Thealphamerc/flutter_news_app) ![GitHub last commit](https://img.shields.io/github/last-commit/Thealphamerc/flutter_news_app)  ![GitHub issues](https://img.shields.io/github/issues-raw/Thealphamerc/flutter_news_app) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Thealphamerc/flutter_news_app) 
+## Flutter News App  ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fthealphamerc) [![GitHub stars](https://img.shields.io/github/stars/ramonaoldf/flutter_news_app?style=social)](https://github.com/login?return_to=%2Framonaoldf%2Fflutter_news_app) ![GitHub forks](https://img.shields.io/github/forks/ramonaoldf/flutter_news_app?style=social) 
+![Dart CI](https://github.com/ramonaoldf/flutter_news_app/workflows/Dart%20CI/badge.svg) ![GitHub pull requests](https://img.shields.io/github/issues-pr/ramonaoldf/flutter_news_app) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/ramonaoldf/flutter_news_app) ![GitHub last commit](https://img.shields.io/github/last-commit/ramonaoldf/flutter_news_app)  ![GitHub issues](https://img.shields.io/github/issues-raw/ramonaoldf/flutter_news_app) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ramonaoldf/flutter_news_app) 
 
 
 A Simple News App built with Flutter. In this app, there is a Home page, which will display top news from newsapi.org. News categories ranges from tech to entertainment. You can choose news category displayed on category page. App is providing a smooth and amazing design with gestures effect and smooth experience with android and iOS both platform.
@@ -19,17 +19,17 @@ A Simple News App built with Flutter. In this app, there is a Home page, which w
 - [x] Display news detail
 - [ ] Display full news detail
 
-## Download App ![GitHub All Releases](https://img.shields.io/github/downloads/Thealphamerc/flutter_news_app/total?color=green)
-<a href="https://github.com/TheAlphamerc/flutter_news_app/releases/download/v1.0.0/app-release.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
+## Download App ![GitHub All Releases](https://img.shields.io/github/downloads/ramonaoldf/flutter_news_app/total?color=green)
+<a href="https://github.com/ramonaoldf/flutter_news_app/releases/download/v1.0.0/app-release.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
 
 ## Screenshots
 
 Dark theme               |  Light Theme               | Dark theme               |  Light Theme
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------
-![](https://github.com/TheAlphamerc/flutter_news_app/blob/master/screenshots/dark_1.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_news_app/blob/master/screenshots/light_1.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_news_app/blob/master/screenshots/dark_2.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_news_app/blob/master/screenshots/light_2.jpg?raw=true)
-![](https://github.com/TheAlphamerc/flutter_news_app/blob/master/screenshots/dark_category.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_news_app/blob/master/screenshots/light_category.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_news_app/blob/master/screenshots/dark_profile.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_news_app/blob/master/screenshots/light_profile.jpg?raw=true)
-![](https://github.com/TheAlphamerc/flutter_news_app/blob/master/screenshots/dark_3.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_news_app/blob/master/screenshots/light_3.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_news_app/blob/master/screenshots/dark_4.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_news_app/blob/master/screenshots/light_4.jpg?raw=true)
-![](https://github.com/TheAlphamerc/flutter_news_app/blob/master/screenshots/dark_5.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_news_app/blob/master/screenshots/light_5.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_news_app/blob/master/screenshots/dark_6.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_news_app/blob/master/screenshots/light_6.jpg?raw=true)
+![](https://github.com/ramonaoldf/flutter_news_app/blob/master/screenshots/dark_1.jpg?raw=true)|![](https://github.com/ramonaoldf/flutter_news_app/blob/master/screenshots/light_1.jpg?raw=true)|![](https://github.com/ramonaoldf/flutter_news_app/blob/master/screenshots/dark_2.jpg?raw=true)|![](https://github.com/ramonaoldf/flutter_news_app/blob/master/screenshots/light_2.jpg?raw=true)
+![](https://github.com/ramonaoldf/flutter_news_app/blob/master/screenshots/dark_category.jpg?raw=true)|![](https://github.com/ramonaoldf/flutter_news_app/blob/master/screenshots/light_category.jpg?raw=true)|![](https://github.com/ramonaoldf/flutter_news_app/blob/master/screenshots/dark_profile.jpg?raw=true)|![](https://github.com/ramonaoldf/flutter_news_app/blob/master/screenshots/light_profile.jpg?raw=true)
+![](https://github.com/ramonaoldf/flutter_news_app/blob/master/screenshots/dark_3.jpg?raw=true)|![](https://github.com/ramonaoldf/flutter_news_app/blob/master/screenshots/light_3.jpg?raw=true)|![](https://github.com/ramonaoldf/flutter_news_app/blob/master/screenshots/dark_4.jpg?raw=true)|![](https://github.com/ramonaoldf/flutter_news_app/blob/master/screenshots/light_4.jpg?raw=true)
+![](https://github.com/ramonaoldf/flutter_news_app/blob/master/screenshots/dark_5.jpg?raw=true)|![](https://github.com/ramonaoldf/flutter_news_app/blob/master/screenshots/light_5.jpg?raw=true)|![](https://github.com/ramonaoldf/flutter_news_app/blob/master/screenshots/dark_6.jpg?raw=true)|![](https://github.com/ramonaoldf/flutter_news_app/blob/master/screenshots/light_6.jpg?raw=true)
 
 
 ## Pull Requests
@@ -52,7 +52,7 @@ https://newsapi.org/
 
 ## Getting Started
 > Before you build this App from source code, please get an ApiKey from [newsapi.org](https://newsapi.org)
-and add your ApiKey in [Constants.dart](https://github.com/TheAlphamerc/flutter_news_app/blob/aad3f409e6f0ba7aeb7e5a823a942c697341c134/lib/src/helpers/constants.dart#L2). 
+and add your ApiKey in [Constants.dart](https://github.com/ramonaoldf/flutter_news_app/blob/aad3f409e6f0ba7aeb7e5a823a942c697341c134/lib/src/helpers/constants.dart#L2). 
 
 This project is a starting point for a Flutter application.
 
